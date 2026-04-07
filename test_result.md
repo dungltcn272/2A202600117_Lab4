@@ -54,7 +54,7 @@ TravelBuddy đang suy nghĩ...
 Gọi tools: search_flights({'origin': 'Hà Nội', 'destination': 'Phú Quốc'})
 Gọi tools: search_hotels({'city': 'Phú Quốc', 'max_price_per_night': 1800000})
 Gọi tools: calculate_budget({'total_budget': 5000000, 'expenses': 'vé_máy_bay:1100000,khách_sạn:1600000'})
-Gọi tools: calculate_budget({'total_budget': 5000000, 'expenses': 'vé_máy_bay:110000,khách_sạn:3000000'})
+Gọi tools: calculate_budget({'total_budget': 5000000, 'expenses': 'vé_máy_bay:1100000,khách_sạn:3000000'})
 Gọi tools: calculate_budget({'total_budget': 5000000, 'expenses': 'vé_máy_bay:1100000,khách_sạn:3200000'})
 Trả lời trực tiếp
 
